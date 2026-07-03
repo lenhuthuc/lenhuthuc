@@ -1,151 +1,52 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Lê%20Như%20Thực&fontSize=45&fontColor=ffffff&color=0:1a1b26,30:f7768e,60:bb9af7,100:7aa2f7&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Lê%20Như%20Thực&fontSize=36&fontColor=ffffff&color=0:1a1b26,30:f7768e,60:bb9af7,100:7aa2f7&animation=fadeIn"/>
 </p>
-
-<h1 align="center">
-Hi 👋 I'm Lê Như Thực
-</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=F7768E&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Backend+Developer;Machine+Learning+Enthusiast;Building+AI-powered+Applications;Always+Learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F7768E&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Spring+Boot+%2B+Express;Machine+Learning+%26+RAG+Enthusiast;Building+AI-powered+Applications" />
 </p>
 
----
+## 🌸 About Me
 
-# 🌸 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```cpp
-class LeNhuThuc {
+- 🎓 **Computer Science** student
+- 🌱 Backend with **Spring Boot & Express**
+- 🤖 Exploring **ML / DL, RAG & AI Chatbots**
+- 🐳 Deploying with **Docker & VPS**
+- ⚡ **PostgreSQL & Redis** for data
+- 💬 CP? That arc is over — now I just build things :)
 
-public:
+<br clear="right"/>
 
-    string major = "Computer Science";
-
-    vector<string> interests = {
-        "Backend Development",
-        "Machine Learning",
-        "Deep Learning",
-        "RAG",
-        "AI Chatbots"
-    };
-
-    vector<string> currentStack = {
-        "Spring Boot",
-        "Express",
-        "PostgreSQL",
-        "Redis",
-        "Docker"
-    };
-
-};
-```
-
----
-
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 Backend
+**Backend & AI** &nbsp;
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,pytorch,tensorflow" height="36"/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+**Data & DevOps** &nbsp;
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,git,bash" height="36"/>
 
-### 🤖 AI
+**Frontend** &nbsp;
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" height="36"/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI%20Chatbot-FF4D8D?style=for-the-badge"/>
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
-
-### ⚙️ DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash" />
+<img src="https://img.shields.io/badge/RAG-BB9AF7?style=flat-square&logo=openai&logoColor=1a1b26"/>
+<img src="https://img.shields.io/badge/LLM-7AA2F7?style=flat-square&logo=openai&logoColor=1a1b26"/>
+<img src="https://img.shields.io/badge/AI%20Chatbot-F7768E?style=flat-square&logoColor=1a1b26"/>
 
 </div>
 
----
-
-# 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lenhuthuc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenhuthuc&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lenhuthuc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=lenhuthuc&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
+> 🧠 *Building reliable software while exploring intelligent systems.*
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=lenhuthuc&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lenhuthuc&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🚀 Current Focus
-
-- 🌱 Backend with Spring Boot & Express
-- 🤖 Machine Learning & Deep Learning
-- 💬 RAG & AI Chatbots
-- 🐳 Docker & VPS Deployment
-- ⚡ PostgreSQL & Redis
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🛒 TechBazaar | E-commerce Platform (Spring Boot + React) |
-| 🏠 HoaQuaSon | Fullstack Web Application |
-| 🤖 AI Chatbot | RAG-powered chatbot using LLMs |
-| 📊 SWE-OULAD | Machine Learning for Student Performance Prediction |
-| 🚗 Parking Management | Python Desktop Application |
-
----
-
-# 💭 Philosophy
-
-> Building reliable software while exploring intelligent systems.
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:7aa2f7,50:bb9af7,100:f7768e"/>
 </p>
