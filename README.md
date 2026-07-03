@@ -3,19 +3,20 @@
 </p>
 
 <p align="center">
-  <img width="85%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2cDk3M2gwdDh0YzVmbXAwNjJmemlua3QyZHAydDJubWZlMjJzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JQbPinA7CR0jlbESf/giphy.gif"/>
+  <img width="600" src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif"/>
 </p>
 
-### 🌸 About Me
+<h3 align="center">🌸 About Me</h3>
 
-- 🎓 **Computer Science** student
-- 🌱 Backend — **Spring Boot & Express**
-- 🤖 **ML, RAG & AI Chatbots**
-- 🐳 **Docker**, PostgreSQL, Redis
+<p align="center">
+  🎓 <b>Computer Science</b> student&nbsp;&nbsp;·&nbsp;&nbsp;🌱 Backend — <b>Spring Boot & Express</b>
+  <br/>
+  🤖 <b>ML, RAG & AI Chatbots</b>&nbsp;&nbsp;·&nbsp;&nbsp;🐳 <b>Docker</b>, PostgreSQL, Redis
+</p>
 
-> 🧠 Collecting tech stacks faster than mastering them.
+<p align="center"><i>🧠 Collecting tech stacks faster than mastering them.</i></p>
 
-### 🚀 Tech Stack
+<h3 align="center">🚀 Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,pytorch" height="40"/>
