@@ -8,14 +8,12 @@
 
 ## 🌸 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif"/>
 
 - 🎓 **Computer Science** student
-- 🌱 Backend with **Spring Boot & Express**
-- 🤖 Exploring **ML / DL, RAG & AI Chatbots**
-- 🐳 Deploying with **Docker & VPS**
-- ⚡ **PostgreSQL & Redis** for data
-- 💬 CP? That arc is over — now I just build things :)
+- 🌱 Backend — **Spring Boot & Express**
+- 🤖 **ML, RAG & AI Chatbots**
+- 🐳 **Docker**, PostgreSQL, Redis
 
 <br clear="right"/>
 
@@ -24,7 +22,7 @@
 <div align="center">
 
 **Backend & AI** &nbsp;
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,pytorch,tensorflow" height="36"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,pytorch" height="36"/>
 
 **Data & DevOps** &nbsp;
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,git,bash" height="36"/>
