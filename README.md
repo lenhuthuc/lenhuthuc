@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="600" src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif"/>
+  <img width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2cDk3M2gwdDh0YzVmbXAwNjJmemlua3QyZHAydDJubWZlMjJzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JQbPinA7CR0jlbESf/giphy.gif"/>
 </p>
 
 <h3 align="center">🌸 About Me</h3>
