@@ -5,9 +5,7 @@
 <h3 align="center">🌸 About Me</h3>
 
 <p align="center">
-  🎓 <b>Computer Science</b> student&nbsp;&nbsp;·&nbsp;&nbsp;🌱 Backend — <b>Spring Boot & Express</b>
-  <br/>
-  🤖 <b>ML, RAG & AI Chatbots</b>&nbsp;&nbsp;·&nbsp;&nbsp;🐳 <b>Docker</b>, PostgreSQL, Redis
+  I'm Lê Như Thực, you can call me Chris
 </p>
 
 <p align="center"><i>🧠 Collecting tech stacks faster than mastering them.</i></p>
