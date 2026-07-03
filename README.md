@@ -8,7 +8,7 @@
 
 - 🎓 **Computer Science** student
 - 🌱 Backend — **Spring Boot & Express**
-- 🤖 **ML, RAG & AI Chatbots**
+- 🤖 **ML, DL, RAG & AI Chatbots**
 - 🐳 **Docker**, PostgreSQL, Redis
 
 > 🧠 Collecting tech stacks faster than mastering them.
