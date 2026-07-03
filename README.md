@@ -2,18 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Lê%20Như%20Thực&fontSize=36&fontColor=ffffff&color=0:1a1b26,30:f7768e,60:bb9af7,100:7aa2f7&animation=fadeIn"/>
 </p>
 
-### 🌸 About Me
+<p align="center">
+  <img width="85%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2cDk3M2gwdDh0YzVmbXAwNjJmemlua3QyZHAydDJubWZlMjJzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JQbPinA7CR0jlbESf/giphy.gif"/>
+</p>
 
-<img align="right" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2cDk3M2gwdDh0YzVmbXAwNjJmemlua3QyZHAydDJubWZlMjJzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JQbPinA7CR0jlbESf/giphy.gif"/>
+### 🌸 About Me
 
 - 🎓 **Computer Science** student
 - 🌱 Backend — **Spring Boot & Express**
-- 🤖 **ML, DL, RAG & AI Chatbots**
+- 🤖 **ML, RAG & AI Chatbots**
 - 🐳 **Docker**, PostgreSQL, Redis
 
 > 🧠 Collecting tech stacks faster than mastering them.
-
-<br clear="right"/>
 
 ### 🚀 Tech Stack
 
