@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Lê%20Như%20Thực&fontSize=36&fontColor=ffffff&color=0:1a1b26,30:f7768e,60:bb9af7,100:7aa2f7&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2cDk3M2gwdDh0YzVmbXAwNjJmemlua3QyZHAydDJubWZlMjJzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3JQbPinA7CR0jlbESf/giphy.gif"/>
-</p>
+<img
+  align="right"
+  width="1000"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UwYng4NG9lcTZscHo1Zno0dzA1YWJhM2tiamRoZTJ5ZnRweGx5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tCKt24uCsH7ASxdO4b/giphy.gif"
+/>
 
 <h3 align="center">🌸 About Me</h3>
 
