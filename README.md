@@ -2,12 +2,6 @@
   <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UwYng4NG9lcTZscHo1Zno0dzA1YWJhM2tiamRoZTJ5ZnRweGx5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tCKt24uCsH7ASxdO4b/giphy.gif"/>
 </p>
 
-<h3 align="center">🌸 About Me</h3>
-
-<p align="center">
-  I'm Lê Như Thực, you can call me Chris
-</p>
-
 <p align="center"><i>🧠 Collecting tech stacks faster than mastering them.</i></p>
 
 <h3 align="center">🚀 Tech Stack</h3>
